@@ -1,8 +1,8 @@
 ![GitHub Dark](picture.png)
 
-##PathFinder visualization
+## PathFinder visualization
 ***
-###Description
+### Description
 
 This project visualizes how do path finding algorithms work.
 For now just _Dijkstra_ algorithm is implemented but 
@@ -11,7 +11,7 @@ _A*_ algorithm is supposed to be done as well.
 Idea on the project was taken from _Clément Mihailescu_.
 Link to his video [click](https://www.youtube.com/watch?v=n4t_-NjY_Sg)
 
-###Instruction
+### Instruction
 
 - draw walls pressing _RIGHT_ key
 - press _arrowUp_ to add random walls
